@@ -13,6 +13,7 @@
 		1A39B7C82A6A74CC0081CCDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A39B7C62A6A74CC0081CCDD /* Main.storyboard */; };
 		1A39B7CA2A6A74CE0081CCDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A39B7C92A6A74CE0081CCDD /* Assets.xcassets */; };
 		1A39B7CD2A6A74CE0081CCDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A39B7CB2A6A74CE0081CCDD /* LaunchScreen.storyboard */; };
+		1A39B7D52A6A77EC0081CCDD /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A39B7D42A6A77EC0081CCDD /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1A39B7C92A6A74CE0081CCDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A39B7CC2A6A74CE0081CCDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A39B7CE2A6A74CE0081CCDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A39B7D42A6A77EC0081CCDD /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1A39B7C02A6A74CC0081CCDD /* AppDelegate.swift */,
 				1A39B7C22A6A74CC0081CCDD /* SceneDelegate.swift */,
 				1A39B7C42A6A74CC0081CCDD /* ViewController.swift */,
+				1A39B7D42A6A77EC0081CCDD /* HeaderView.swift */,
 				1A39B7C62A6A74CC0081CCDD /* Main.storyboard */,
 				1A39B7C92A6A74CE0081CCDD /* Assets.xcassets */,
 				1A39B7CB2A6A74CE0081CCDD /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				1A39B7C52A6A74CC0081CCDD /* ViewController.swift in Sources */,
 				1A39B7C12A6A74CC0081CCDD /* AppDelegate.swift in Sources */,
 				1A39B7C32A6A74CC0081CCDD /* SceneDelegate.swift in Sources */,
+				1A39B7D52A6A77EC0081CCDD /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
